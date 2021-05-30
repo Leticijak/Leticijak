@@ -4,7 +4,8 @@ You've found my profile.
 I'm a frontend / JavaScript developer from Barcelona, Spain. 
 I work on my own projects mostly, here and there making apps, Shopify stores, pages for other people.
 
-I work with:
+I work with:  	**bold text** :speedboat: :cyclone: ,  React :ship: :ocean: ,  Node  :anchor: :sunny: , Shopify :bullettrain_front: :foggy: , Html/Css: :roller_coaster: :zap:
+
 - Nextjs :speedboat: :cyclone:
 - React :ship: :ocean:
 - Node  :anchor: :sunny:
