@@ -1,24 +1,25 @@
-### BOOOO! :ghost:
+### BOOOO! :ghost: :ghost: :ghost:
 
 You've found my profile.
 I'm a frontend / JavaScript developer from Barcelona, Spain. 
-I work on my own projects mostly, here and there making apps and pages for others
+I work on my own projects mostly, here and there making apps, Shopify stores, pages for other people.
 
-Weapons of choice include but are not limited to:
-- Vue 💚
-- React 💙
-- Node 💛
+I work with:
+- Nextjs :speedboat:
+- React :ship:
+- Node  :anchor:
+- Shopify :bullettrain_front:
+- Html/CSS: :roller_coaster:
 
-I'm acting mentor on the [Coding Coach platform](https://mentors.codingcoach.io/?name=Joran+Quinten), love [photography](https://movingpixels.joranquinten.nl/), [running and road cycling](https://www.strava.com/athletes/11554004) and my family.
+I stand excellent with human languages as-well: English, Spanish, Catalan, Serbian, Croatian :bowtie:
 
-Feel free to [reach out to me](mailto:joran@joranquinten.nl) for help, collabs or side hustles
-
-✨🚀✨👨🏻‍🚀✨🖖✨
+Feel free to [reach out to me](mailto:faustofelus84@gmail.com) for :fireworks: free life advice, :moneybag: 11 billion dollar idea and :sparkler: next big thing!!!
+jk send me an email related to collab, work, cool projects :fire:
 
 ---
 
-> The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+> As long as you live keep learning on how to live.
 
-— Arthur C. Clarke
+— Seneka
 
-⭐️ From [joranquinten](https://github.com/joranquinten)
+:octocat: From [Leticijak](https://github.com/Leticijak)
