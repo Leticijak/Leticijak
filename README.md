@@ -1,4 +1,4 @@
-:octocat :octocat :octocat ### Boooo! :ghost: :ghost: :ghost:
+ ### Boooo! :ghost: :ghost: :ghost:
 
 You've found my profile.
 I'm a frontend / JavaScript developer from Barcelona, Spain. 
