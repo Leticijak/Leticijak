@@ -17,4 +17,4 @@ jk send me an email related to collab, work, cool projects :fire:
 
 — Lucius Annaeus Seneca
 
-:octocat: From [Leticijak](https://github.com/Leticijak)
+:octocat: As long as you write code, you will have to learn how to write more and more code From [Leticijak](https://github.com/Leticijak)
