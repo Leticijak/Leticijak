@@ -5,7 +5,9 @@ I'm a web developer from Barcelona, Spain.
 I work on my own projects mostly, here and there making apps, Shopify stores, pages for other people.
 
 I work with:  	**Next.js** :speedboat: :cyclone: ,  **React.js** :ship: :ocean: ,  **Node.js**  :anchor: :sunny: , **Shopify** :bullettrain_front: :foggy: , **Html5/Css3** :roller_coaster: :zap:
+
 Very familiar with: **Python3** :computer: :jack_o_lantern: and **Django** :loop: :low_brightness:
+
 Using :penguin: Linux :penguin: for work. 
 Using :floppy_disk: Win10 :floppy_disk: for entertaiment purposes. 
 
