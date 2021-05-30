@@ -1,7 +1,7 @@
  ### Boooo! :ghost: :ghost: :ghost:
 
 You've found my profile.
-I'm a frontend / JavaScript developer from Barcelona, Spain. 
+I'm a web developer from Barcelona, Spain. 
 I work on my own projects mostly, here and there making apps, Shopify stores, pages for other people.
 
 I work with:  	**Next.js** :speedboat: :cyclone: ,  **React.js** :ship: :ocean: ,  **Node.js**  :anchor: :sunny: , **Shopify** :bullettrain_front: :foggy: , **Html5/Css3** :roller_coaster: :zap:
