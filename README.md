@@ -8,7 +8,7 @@ I work with:  	**Next.js** :speedboat: :cyclone: ,  **React.js** :ship: :ocean: 
 
 Very familiar with: **Python3** :computer: :jack_o_lantern: and **Django** :loop: :low_brightness:
 
-Using :penguin: Linux :penguin: for work. 
+Using :penguin: Linux :penguin: for development. 
 Using :floppy_disk: Win10 :floppy_disk: for entertaiment purposes. 
 
 I'm in great realtionship with human languages as-well: English, Spanish, Catalan, Serbian, Croatian :bowtie:
