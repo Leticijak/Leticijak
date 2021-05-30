@@ -9,7 +9,7 @@ I work with:
 - React :ship:
 - Node  :anchor:
 - Shopify :bullettrain_front:
-- Html/CSS: :roller_coaster:
+- Html/Css: :roller_coaster:
 
 I stand excellent with human languages as-well: English, Spanish, Catalan, Serbian, Croatian :bowtie:
 
