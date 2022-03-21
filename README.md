@@ -10,7 +10,7 @@ Very familiar with: **Python3** :computer: :jack_o_lantern: and **Django** :loop
 
 Using :penguin: Linux :penguin: for development, and :floppy_disk:  Win10  :floppy_disk: for entertainment purposes. 
 
-I'm in great realtionship with human languages as-well: English, Spanish, Catalan, Serbian, Croatian :bowtie:
+I'm in great realtionship with human languages as-well: English, Spanish, Catalan, some Slavic languages as well :bowtie:
 
 Feel free to [reach out ](mailto:faustofelus84@gmail.com) for  :fireworks:  free life advice,  :moneybag:  11 billion dollar idea and  :sparkler:  next big thing!!!
 jk send me an email related to collab, work, cool projects :fire:
