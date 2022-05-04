@@ -1,4 +1,4 @@
- ### Boooo! :ghost: :ghost: :ghost:
+ ### Hello
 
 You've found my profile.
 I'm a web developer from Barcelona, Spain. 
