@@ -20,9 +20,6 @@ In recent years I've been working mostly with **Next.js** and **React**, making 
 <br/>
 <br/>
 <img align="left" alt="Shopify" width="30px" style="padding-right:10px;" src="./shopify_glyph.svg" />
-<br/>
-<br/>
-<br/>
 
 <img align="left" alt="Material UI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
