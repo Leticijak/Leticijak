@@ -33,7 +33,9 @@ In recent years I've been working mostly with **Next.js** and **React**, making 
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-#
+
+<br/>
+<br/>
 
 Also in a great realtionship with human languages as-well: English, Spanish, Catalan, some Slavic languages as well :bowtie:
 
